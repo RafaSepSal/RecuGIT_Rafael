@@ -1,3 +1,6 @@
-# eGitPrueba
+#Repositorio departamento Marketing
 
-Hola que tal, soy colosal.
+· Imagenes del equipo
+· Informes sobre campañas de abonos
+
+Unicaja Baloncesto.
